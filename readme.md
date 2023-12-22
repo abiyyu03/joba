@@ -1,4 +1,4 @@
-![JOBA](https://github.com/abiyyu03/joba/assets/60283562/e0426ede-66f2-42ab-b26a-8cd0085c90ce)
+![JOBA](https://github.com/abiyyu03/joba/assets/60283562/fc0d0814-5f75-47f3-bfa6-cca0741b6edc)
 
 Joba is an innovative app designed to address Indonesia's employment challenges. The app aims to overcome barriers in connecting skill owners with job providers, 
 especially in the technology-impoverished informal sector. Through this digital platform, Joba facilitates the connection between employers and job seekers, 
