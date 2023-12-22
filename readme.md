@@ -70,3 +70,15 @@ In our project is divided into four branches:
   - Mobile Development
   - Cloud Computing
   - Machine Learning
+
+## Contact
+
+| Member    | LinkedIn    | 
+|------------|------------|
+| Novi Nur Rahmawati    | [link](https://www.linkedin.com/in/novinr/)      |
+| Raymond Pratama    | [link](https://www.linkedin.com/in/raymond-pratama-626810296/)     | 
+| Audrey Lynn Johanes    | [link](https://www.linkedin.com/in/audrey-johanes/)     | 
+| Abiyyu Cakra    | [link](https://www.linkedin.com/in/abiyyu-cakra/)    | 
+| Muhammad Alif Fathan    | [link](https://www.linkedin.com/in/muhammad-alif-fathan-10546b258/)    | 
+| Muhammad Alif Kasyafi    | [link](https://www.linkedin.com/in/muhammad-alif-kasyafi-72524a296/)    | 
+| Muhammad Yaqdhan Taqy Ariana    | [link](https://www.linkedin.com/in/muhammad-yaqdhan-taqy-ariana-755a88195/)    | 
