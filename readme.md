@@ -1,6 +1,6 @@
 ![JOBA](https://github.com/abiyyu03/joba/assets/60283562/fc0d0814-5f75-47f3-bfa6-cca0741b6edc)
 
-##Team Members – CH2-PR610
+## Team Members – CH2-PR610
 | Member    | Student ID    | Path    | University    |
 |------------|------------|------------|------------|
 | Novi Nur Rahmawati    | A295BSX2210      | Mobile Development     | Universitas Pembangunan Nasional Veteran Jakarta     |
@@ -20,6 +20,7 @@ Our Repositories
 - [Joba Webview using Kotlin](https://github.com/novvnr/Joba-WebView)
 - [Joba Rest API using NodeJS](https://github.com/abiyyu03/joba-api)
 - [Joba Frontend using ReactJS](https://github.com/abiyyu03/joba-frontend)
+- [Joba Machine Learning Model](https://github.com/RaymondPratama/ML)
 
 ## Download Link
 
